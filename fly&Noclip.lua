@@ -1,5 +1,5 @@
 -- fly and noclip script 
--- if you no wanna copy that script here loadstring: 
+-- if you no wanna copy that script here loadstring: loadstring(game:HttpGet("https://raw.githubusercontent.com/idkQh/scripts-roblox-loadstring-_-/refs/heads/main/fly%26Noclip.lua"))()
 local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
 local screenGui = Instance.new("ScreenGui")
